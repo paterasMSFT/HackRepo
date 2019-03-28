@@ -1,1 +1,2 @@
+[![Board Status](https://codedev.ms/mipatera/8e6b1575-02ba-4af5-ae39-a591984b677c/b46fcb9e-64e6-46a3-9df1-c82be2925c2c/_apis/work/boardbadge/c585a255-1b25-44ab-a3fd-2277b2cbd409)](https://codedev.ms/mipatera/8e6b1575-02ba-4af5-ae39-a591984b677c/_boards/board/t/b46fcb9e-64e6-46a3-9df1-c82be2925c2c/Microsoft.RequirementCategory)
 # HackRepo
